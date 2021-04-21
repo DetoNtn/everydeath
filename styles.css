@@ -1,0 +1,21 @@
+.a {
+	text-size-adjust: none;
+-webkit-text-size-adjust: none;
+-moz-text-size-adjust: none;
+-ms-text-size-adjust: none
+}
+.b {
+	line-height: 8px;
+	}
+.c {
+	line-height: 8px;
+	 white-space: nowrap;
+	 color:#7d7d7d
+}
+.d {
+	color:#000;
+	text-decoration:none;
+}
+.intro {
+	float: left; margin-left: 50px; white-space: nowrap;
+}
