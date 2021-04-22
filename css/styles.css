@@ -46,11 +46,11 @@
     border-left: dotted #000;
   }
 
-  ul.tree li:last-child {
+  ul.tree li.last {
     border-left: none;
   }
 
-  ul.tree li:before {
+  ul.tree li.before {
     width: 0.9em;
     height: 0.6em;
     margin-right: 0.1em;
@@ -60,6 +60,6 @@
     display: inline-block;
   }
 
-  ul.tree li:last-child:before {
+  ul.tree li.beforelast {
     border-left: dotted #000;
   }
