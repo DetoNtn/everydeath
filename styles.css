@@ -6,12 +6,12 @@
 }
 .b {
 	white-space: nowrap;
-	line-height: 1.45;
+	margin: 0;
 	}
 .c {
 	 white-space: nowrap;
 	 color:#7d7d7d;
-	 line-height: 1.45;
+	 margin: 0;
 }
 .d {
 	color:#000;
