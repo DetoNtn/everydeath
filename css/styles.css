@@ -5,12 +5,16 @@
 -ms-text-size-adjust: none
 }
 .b {
-	line-height: 8px;
+	white-space: nowrap;
+	margin-bottom: 5px;
+	line-height: 90%;
 	}
 .c {
-	line-height: 8px;
 	 white-space: nowrap;
-	 color:#7d7d7d
+	 color:#7d7d7d;
+	 margin-top: 0;
+	 margin-bottom: 100px;
+	 line-height: 90%;
 }
 .d {
 	color:#000;
@@ -18,4 +22,7 @@
 }
 .intro {
 	float: left; margin-left: 50px; white-space: nowrap;
+}
+.nowrapping {
+	white-space: nowrap;
 }
